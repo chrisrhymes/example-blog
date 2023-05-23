@@ -2,7 +2,7 @@
 
 ## ⚙️ Set up:
 
-1. Fork the following repo: https://github.com/chrisrhymes/example-blog
+1. Fork the following repo: https://github.com/chrisrhymes/example-blog/fork
 2. Name your repo “your-username.github.io” where your-username is your GitHub username
 3. From the forked repo, click the “Code” dropdown.
 4. Select the “Codespaces” tab
