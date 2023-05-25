@@ -7,6 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+
 gem "jekyll", "~> 3.9"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "mere-blog-theme", "~> 0.5"
@@ -16,6 +17,7 @@ gem "mere-blog-theme", "~> 0.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "github-pages", "228"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

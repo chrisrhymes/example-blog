@@ -30,9 +30,10 @@ livereload: true
 permalink: pretty
 
 # Build settings
-theme: mere-blog-theme
+remote_theme: chrisrhymes/mere-blog-theme
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 paginate: 6
 paginate_path: "/page:num"
