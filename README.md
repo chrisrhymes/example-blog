@@ -10,11 +10,13 @@
 6. Open the terminal using the top left menu.
    - View
    - Terminal
-7. In the terminal in the bottom right of the window, enter `bundle install` and then press enter to run it.
-8. Then enter `bundle exec jekyll serve` and press enter.
-9. Click the “Open in browser” button in the pop-up that appears
-10. View your new site.
-11. Click into the terminal window and press `ctrl + c` to stop serving your site.
+7. In the terminal in the bottom right of the window, enter `rvm install ruby-3.0.5` then press enter to install ruby.
+8. Next, enter `rvm use 3.0.5` and press enter to use the ruby version.
+9. Enter `bundle install` and then press enter to run it.
+10. Then enter `bundle exec jekyll serve` and press enter.
+11. Click the “Open in browser” button in the pop-up that appears
+12. View your new site.
+13. Click into the terminal window and press `ctrl + c` to stop serving your site.
 
 ## ✍️ Edit the Configuration:
 
